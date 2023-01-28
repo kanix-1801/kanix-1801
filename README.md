@@ -3,6 +3,9 @@
 
 <img src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/b653b52ea79e96ce14956d8a3c5e509f.png?compress=1&resize=400x300&vertical=top" align='right' alt="programmer" width="380">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanix-1801&label=Profile%20views&color=0e75b6&style=flat" alt="kanix" /> </p>
+
+
 - 🔭 I’m currently working on **Open Circle Project**
 
 - 🌱 I’m currently learning **Solidity & Ether JS**
