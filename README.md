@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishk Singhal</h1>
-<h3 align="center">A Frountend Developer, Blockchain and Java Developer.</h3>
+<h3 align="center">A Frontend Developer, Blockchain and Java Developer.</h3>
 
 <img src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/b653b52ea79e96ce14956d8a3c5e509f.png?compress=1&resize=400x300&vertical=top" align='right' alt="programmer" width="380">
 
