@@ -26,3 +26,14 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanix-1801" alt="" /></p>
+
+
+
+# Ur-Hackathon 2.0 Appreciation NFT Showcase
+
+![NFT Image](nft-image.jpg) <!-- Replace with the actual image of your NFT -->
+
+Description: This NFT represents...
+
+Check out my NFT on [OpenSea](https://opensea.io/assets/matic/0x11529f3da8dcc65ae2261a512347670b6aa90561/1/).
+
