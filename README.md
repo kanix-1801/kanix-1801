@@ -31,9 +31,14 @@
 
 # Ur-Hackathon 2.0 Appreciation NFT Showcase
 
-![NFT Image](nft-image.jpg) <!-- Replace with the actual image of your NFT -->
-
-Description: This NFT represents...
+Description: This NFT was awarded to Appreciate participants of the Ur-Hackathon 2.0 in 2023
 
 Check out my NFT on [OpenSea](https://opensea.io/assets/matic/0x11529f3da8dcc65ae2261a512347670b6aa90561/1/).
+
+**Watch the Video:**
+
+<video width="640" height="360" controls>
+  <source src="https://openseauserdata.com/files/4525919eaf49a49d4426703b80059a63.mp4#t=0.001" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
