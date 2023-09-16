@@ -27,6 +27,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanix-1801" alt="" /></p>
 
+# Certificate_of_Appreciation completion of the Web3 init Hackathon organised by UNSNARL and ClueLess
+
+https://github.com/kanix-1801/kanix-1801/assets/72912708/1cf9dc19-91ab-46af-858a-f82e5bf80951
+
+
+
+Description : UNSNARL is redefining Web3 Security with Offensive Security Tech Solutions and launching audit economy for independent auditors, backed by Polygon, Antler India, StarkNet and ETH India.
+
+
+Check out my NFT on [OpenSea](https://opensea.io/assets/matic/0x706e4a3b3e74542125e7f132b653d67d9c4d68b4/28/).
+![8f336b0569995a52de5142bc5f56917e](https://github.com/kanix-1801/kanix-1801/assets/72912708/4d6fe640-be95-4939-b7dd-27d6846bc0be)
+
 
 
 # Ur-Hackathon 2.0 Appreciation NFT Showcase
@@ -35,11 +47,7 @@ Description: This NFT was awarded to Appreciate participants of the Ur-Hackathon
 
 Check out my NFT on [OpenSea](https://opensea.io/assets/matic/0x11529f3da8dcc65ae2261a512347670b6aa90561/1/).
 
-# Certificate_of_Appreciation completion of the Web3 init Hackathon organised by UNSNARL and ClueLess
+Description: This NFT was awarded to participants of the Ur-Hackathon 2.0 hackathon in 2023
 
-Description : UNSNARL is redefining Web3 Security with Offensive Security Tech Solutions and launching audit economy for independent auditors, backed by Polygon, Antler India, StarkNet and ETH India.
-
-
-Check out my NFT on [OpenSea](https://opensea.io/assets/matic/0x706e4a3b3e74542125e7f132b653d67d9c4d68b4/28/).
-![8f336b0569995a52de5142bc5f56917e](https://github.com/kanix-1801/kanix-1801/assets/72912708/4d6fe640-be95-4939-b7dd-27d6846bc0be)
-
+Check out my NFT on [OpenSea](https://opensea.io/assets/matic/0x11529f3da8dcc65ae2261a512347670b6aa90561/2/).
+https://github.com/kanix-1801/kanix-1801/assets/72912708/e12585c3-ae87-46b6-97d2-9b95a2b7dc4e
