@@ -37,8 +37,6 @@ Check out my NFT on [OpenSea](https://opensea.io/assets/matic/0x11529f3da8dcc65a
 
 **Watch the Video:**
 
-<video width="640" height="360" controls>
-  <source src="https://openseauserdata.com/files/4525919eaf49a49d4426703b80059a63.mp4#t=0.001" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<iframe width="640" height="360" src="https://openseauserdata.com/files/4525919eaf49a49d4426703b80059a63.mp4#t=0.001" frameborder="0" allowfullscreen></iframe>
 
