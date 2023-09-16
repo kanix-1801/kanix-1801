@@ -35,8 +35,11 @@ Description: This NFT was awarded to Appreciate participants of the Ur-Hackathon
 
 Check out my NFT on [OpenSea](https://opensea.io/assets/matic/0x11529f3da8dcc65ae2261a512347670b6aa90561/1/).
 
-**Watch the Video:**
+# Certificate_of_Appreciation completion of the Web3 init Hackathon organised by UNSNARL and ClueLess
 
-<img src="https://openseauserdata.com/files/4525919eaf49a49d4426703b80059a63.mp4#t=0.001" align='right' alt="programmer" width="380">
-<iframe width="640" height="360" src="https://openseauserdata.com/files/4525919eaf49a49d4426703b80059a63.mp4#t=0.001" frameborder="0" allowfullscreen></iframe>
+Description : UNSNARL is redefining Web3 Security with Offensive Security Tech Solutions and launching audit economy for independent auditors, backed by Polygon, Antler India, StarkNet and ETH India.
+
+
+Check out my NFT on [OpenSea](https://opensea.io/assets/matic/0x706e4a3b3e74542125e7f132b653d67d9c4d68b4/28/).
+![Example GIF](https://dl.openseauserdata.com/cache/originImage/files/8f336b0569995a52de5142bc5f56917e.gif)
 
