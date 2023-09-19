@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanix-1801&label=Profile%20views&color=0e75b6&style=flat" alt="kanix" /> </p>
 
 
-- 🔭 I’m currently working on **Znoway and open circle project**
+- 🔭 I’m currently working on **Zenoway and openCircle project**
 
 - 🌱 I’m currently learning **DSA**
 
