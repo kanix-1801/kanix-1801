@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Zenoway and openCircle project**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA & solidity**
 
 - 📫 How to reach me **kanishk.singhal1801@gmail.com**
 
