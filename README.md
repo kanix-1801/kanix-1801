@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanishk Singhal</h1>
 <h3 align="center">A Frontend Developer, Blockchain and Java Developer.</h3>
 
-<img src="https://cdn.dribbble.com/userupload/4147008/file/original-97057753b38c814dd3dae98395a09faa.png?resize=752x" align='right' alt="programmer" width="380">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanix-1801&label=Profile%20views&color=0e75b6&style=flat" alt="kanix" /> </p>
 
