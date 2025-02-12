@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishk Singhal</h1>
-<h3 align="center">A Frontend Developer, Blockchain and Java Developer.</h3>
+<h3 align="center">A Full Stack Developer, Blockchain and Java Developer.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanix-1801&label=Profile%20views&color=0e75b6&style=flat" alt="kanix" /> </p>
