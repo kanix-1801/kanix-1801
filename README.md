@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20There,%20I'm%20Kanishk%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Developer;Java+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Salesforce+Developer;Java+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=kanix-1801&label=Profile%20views&color=0e75b6&style=flat" alt="kanix" />
 <img src="https://img.shields.io/github/followers/kanix-1801?label=Followers&style=social" alt="followers" />
