@@ -14,11 +14,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **Zenoway** and **openCircle**
-- 🌱 I'm currently learning **DSA & Solidity**
-- 💬 Ask me about **JavaScript, React, Node.js, Java, Blockchain**
-- 📫 How to reach me: **kanishk.singhal1801@gmail.com**
-- ⚡ Fun fact: I enjoy building things at the intersection of Web2 and Web3
+- 🔭 I'm currently working as a **Senior Salesforce Developer at RaptBot Technologies**
+- 🌱 I'm currently learning **Agentforce, Apex Enterprise Patterns, Salesforce Data Cloud, DSA, and Solidity**
+- 💬 Ask me about **Salesforce, Agentforce, Apex, Lightning Web Components (LWC), AWS, JavaScript, React, Node.js, Java, and Blockchain**
+- 📫 How to reach me: [kanishk.singhal1801@gmail.com](mailto:kanishk.singhal1801@gmail.com)
+- ⚡ Fun fact: I enjoy building things at the intersection of Salesforce, AI, Web2, and Web3
 
 ---
 
@@ -35,6 +35,11 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
+<a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="salesforce" width="40" height="40"/></a>
+<a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="apex" height="28"/></a>
+<a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="lwc" height="28"/></a>
+<a href="https://www.salesforce.com/agentforce/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Agentforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="agentforce" height="28"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
