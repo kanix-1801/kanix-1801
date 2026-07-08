@@ -83,7 +83,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kanix-1801/kanix-1801/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kanix-1801/kanix-1801/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 > Powered by a GitHub Action — see `snake.yml` (included alongside this README) for setup.
