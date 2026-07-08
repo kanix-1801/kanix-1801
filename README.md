@@ -62,7 +62,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kanix-1801&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Kanishk's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=kanix-1801&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark" alt="Kanishk's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanix-1801&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
